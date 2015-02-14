@@ -5,3 +5,12 @@ body {
 background-repeat : repeat ; 
 background-image : url("haikei.png") 
 }
+
+#Thebest825{
+    width: 1000px;
+    height: 500px;
+    padding: 0;
+}
+div{
+    display: block;
+}
