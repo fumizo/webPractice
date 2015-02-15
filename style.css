@@ -10,7 +10,12 @@ background-image : url("haikei.png")
     width: 1000px;
     height: 500px;
     padding: 0;
-}
-div{
     display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
+#news{
+    background-color:#000;
+    height: 20PX;
+}
+
