@@ -1,21 +1,51 @@
 h1{
-color: #ffcc00
+    color: #000;
+    background-color: #fff;
+}
+p{
+    color:#000;
+    background-color: #fff;
+
 }
 body { 
 background-repeat : repeat ; 
 background-image : url("haikei.png") 
 }
-
-#Thebest825{
-    width: 1000px;
+div#Thebest825{
+    width: 742px;
     height: 500px;
     padding: 0;
+    background-color: #000;
+}
+div#news{
+    background-color:#000;
+    height: 20PX;
+}
+div{
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-#news{
-    background-color:#000;
-    height: 20PX;
+ul.tehbest_sitemap{
+    width: 271px;
+    display: block;
+    margin-left: 8px;
+    margin-top: -14px;
+    background-color:#fff;
 }
-
+div#LP_R{
+    width: 620px;
+    height: auto;
+    min-height: 500px;
+    margin: 0;
+    float: left;
+    clear: right;
+}
+div#video{
+    width: 485px;
+    height: 273px;
+    margin-top: 0px;
+    margin-right: auto;
+    padding-top: 37px;
+    background-color: #000;
+}
